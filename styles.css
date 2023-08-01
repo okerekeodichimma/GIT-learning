@@ -5,3 +5,7 @@
 p{
     color: blue;
 }
+.image{
+    border-style: groove;
+    border-color: red;
+}
