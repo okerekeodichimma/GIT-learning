@@ -5,9 +5,8 @@
 p{
     color: blue;
 }
-.image{
-    border-style: groove;
-    border-color: red;
+.image > img{
+    border:4px red solid;
 }
 .heading{  
     font-weight: bold;
