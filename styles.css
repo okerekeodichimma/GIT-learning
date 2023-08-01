@@ -17,3 +17,11 @@ p{
     text-align: center;
     font-size: 25pt;
 }
+body{
+    position: relative;
+}
+.image-link{
+    position: fixed;
+    top: 20vh;
+    left: 10vh;
+}
