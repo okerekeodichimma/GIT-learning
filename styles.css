@@ -9,3 +9,12 @@ p{
     border-style: groove;
     border-color: red;
 }
+.heading{  
+    font-weight: bold;
+    color: blue;
+    font-size: 45pt;
+}
+.paragraph{
+    text-align: center;
+    font-size: 25pt;
+}
